@@ -39,7 +39,7 @@ const Home = ({ contributors }): JSX.Element => (
    </div>
       <Typography variant={"h1"} className={styles.welcomeText}>Let's change the world together with Open source!</Typography>
       <Typography variant={"h2"} className={styles.welcomeSubText}>FOSS Clubs GEC Palakkad is open to everyone whether you're new to development, a student or a long-time contributor. Open your first pull request and generate a personalized music certificate 
-      <a className={styles.githubLink} href="https://github.com/FOSS-Cell-GECPKD/coding-sprint" target="_blank">HERE</a>
+      <a className={styles.githubLink} href="https://github.com/FOSS-Cell-GECPKD/SPRINT" target="_blank">HERE</a>
       </Typography>
     </Grid>
     <Grid container className={styles.arrowContainer}>
