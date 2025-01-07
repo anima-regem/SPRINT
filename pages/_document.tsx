@@ -1,8 +1,8 @@
 import Document, { Head, Main, NextScript } from 'next/document'
 
 const {title,description,image}={
-  title:`BlueLearn SPRINT Let's change the world together with Open source!`,
-  description:`BlueLearn Open-Sauce-Club is open to everyone whether you're new to development, a student or a long-time contributor. Open your first pull request and generate a personalized music certificate at here`,
+  title:`Season of Commits SPRINT Let's change the world together with Open source!`,
+  description:`Season of Commits Open-Sauce-Club is open to everyone whether you're new to development, a student or a long-time contributor. Open your first pull request and generate a personalized music certificate at here`,
   image:`/final_poster.png`
 }
 

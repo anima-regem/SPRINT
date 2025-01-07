@@ -1,11 +1,11 @@
-# Hey! Welcome to the BlueLearn Sprint
+# Hey! Welcome to the Season of Commits Sprint
 
 ##### ⚠️ Disclaimer (Pull requests here won’t count toward actual SPRINT competition)
 
 #### Why?
  This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 <br>
-So, try contributing in a meaningful way to other [BlueLearn SPRINT issues](https://github.com/FOSS-Cell-GECPKD/SPRINT) and if you still want to generate a music certificate or add yourself to [bluesprint.vercel.app](https://bluesprint.vercel.app/) go ahead and raise a PR.
+So, try contributing in a meaningful way to other [Season of Commits SPRINT issues](https://github.com/FOSS-Cell-GECPKD/SPRINT) and if you still want to generate a music certificate or add yourself to [bluesprint.vercel.app](https://bluesprint.vercel.app/) go ahead and raise a PR.
 
 
 ## How to make your first pull request?

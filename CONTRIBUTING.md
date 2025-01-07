@@ -4,7 +4,7 @@ Welcome to the world of open-source! It is really **awesome** to have you here. 
 
 ## Looking to make your first PR?
 
-This is a beginner friendly repository made specifically for BlueLearn Sprint that helps you get your first PR. If you are a beginner, and looking for your first contribution, we are here to help. Just add your details to `contributors.json`.
+This is a beginner friendly repository made specifically for Season of Commits SPRINT that helps you get your first PR. If you are a beginner, and looking for your first contribution, we are here to help. Just add your details to `contributors.json`.
 
 ## Submitting a pull request
 #### Step#1: Star this repo 🌟
