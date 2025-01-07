@@ -1,6 +1,8 @@
 .welcomeGridWrapper {
     height: 70vh;
     align-content: center;
+    display: flex;
+    justify-content: center;
     .welcomeText {
         font-weight: bold;
         text-align: center;

@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Welcome to the world of open-source! It is really **awesome** to have you here. Before start contributing with this project make sure you read our [Code Of Conduct](https://github.com/Clinify-Open-Sauce/SPRINT/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone
+Welcome to the world of open-source! It is really **awesome** to have you here. Before start contributing with this project make sure you read our [Code Of Conduct](https://github.com/FOSS-Cell-GECPKD/SPRINT/blob/master/CODE_OF_CONDUCT.md), it is really important to make this inclusive and open to everyone
 
 ## Looking to make your first PR?
 
@@ -8,10 +8,10 @@ This is a beginner friendly repository made specifically for BlueLearn Sprint th
 
 ## Submitting a pull request
 #### Step#1: Star this repo 🌟
-[Star this repo...](https://github.com/Clinify-Open-Sauce/SPRINT/star)
+[Star this repo...](https://github.com/FOSS-Cell-GECPKD/SPRINT/star)
 pull requests from account with a star will only be merged.
 
-#### Step#2: [Fork](https://github.com/Clinify-Open-Sauce/SPRINT/star/fork) and clone the repository
+#### Step#2: [Fork](https://github.com/FOSS-Cell-GECPKD/SPRINT/star/fork) and clone the repository
 Do not directly clone the repository as it is not considered as a good practice.
 
 #### Step#3: Create a new branch: 
@@ -56,7 +56,7 @@ You can pick a colour from https://www.google.com/search?q=color+picker
 `git commit -m  "added myself"`
 
 ### Step#8: Push to your fork 
-`git push origin new-user` and [submit a pull request](https://github.com/Clinify-Open-Sauce/SPRINT/compare).
+`git push origin new-user` and [submit a pull request](https://github.com/FOSS-Cell-GECPKD/SPRINT/compare).
 
 ### Step#9: Pat your self on the back
  and wait for your pull request to be reviewed and merged.

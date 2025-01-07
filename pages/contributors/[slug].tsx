@@ -140,7 +140,7 @@ export default function Contributor({ userName, contributorData }) {
 									personalized music certificate. Share this
 									<a
 										className={styles.hacktoberLink}
-										href="https://github.com/Clinify-Open-Sauce/SPRINT"
+										href="https://github.com/FOSS-Cell-GECPKD/SPRINT"
 										target="_blank"
 									>
 										repository

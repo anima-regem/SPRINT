@@ -5,16 +5,16 @@
 #### Why?
  This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 <br>
-So, try contributing in a meaningful way to other [BlueLearn SPRINT issues](https://github.com/Clinify-Open-Sauce/SPRINT) and if you still want to generate a music certificate or add yourself to [bluesprint.vercel.app](https://bluesprint.vercel.app/) go ahead and raise a PR.
+So, try contributing in a meaningful way to other [BlueLearn SPRINT issues](https://github.com/FOSS-Cell-GECPKD/SPRINT) and if you still want to generate a music certificate or add yourself to [bluesprint.vercel.app](https://bluesprint.vercel.app/) go ahead and raise a PR.
 
 
 ## How to make your first pull request?
 
 ### Step#1: Star this repo 🌟
-[Star this repo...](https://github.com/Clinify-Open-Sauce/SPRINT/star)
+[Star this repo...](https://github.com/FOSS-Cell-GECPKD/SPRINT/star)
 pull requests from account with a star will only be merged.
 
-### Step#2: [Fork](https://github.com/Clinify-Open-Sauce/SPRINT/star/fork) and clone the repository
+### Step#2: [Fork](https://github.com/FOSS-Cell-GECPKD/SPRINT/star/fork) and clone the repository
 Do not directly clone the repository as it is not considered as a good practice.
 
 ### Step#3: Create a new branch: 
@@ -59,7 +59,7 @@ You can pick a colour from https://www.google.com/search?q=color+picker
 `git commit -m  "added myself"`
 
 ### Step#8: Push to your fork 
-`git push origin new-user` and [submit a pull request](https://github.com/Clinify-Open-Sauce/SPRINT/compare).
+`git push origin new-user` and [submit a pull request](https://github.com/FOSS-Cell-GECPKD/SPRINT/compare).
 
 ### Step#9: Pat your self on the back
  and wait for your pull request to be reviewed and merged.

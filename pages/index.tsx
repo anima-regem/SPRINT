@@ -26,7 +26,7 @@ export async function getStaticProps() {
 const Home = ({ contributors }): JSX.Element => (
   <Layout noAppBar>
     <Head>
-      <title>BlueLearn X BlueSprint</title>
+      <title>Season of Commits</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="shortcut icon" href="/favicon.ico" />
@@ -35,11 +35,11 @@ const Home = ({ contributors }): JSX.Element => (
    {/* <Header/> */}
    <div>
 
-   <img  className='logo'src='/bluesprint.svg'></img>
+   <img  className='logo'src='/soc.png'></img>
    </div>
       <Typography variant={"h1"} className={styles.welcomeText}>Let's change the world together with Open source!</Typography>
       <Typography variant={"h2"} className={styles.welcomeSubText}>FOSS Clubs GEC Palakkad is open to everyone whether you're new to development, a student or a long-time contributor. Open your first pull request and generate a personalized music certificate 
-      <a className={styles.githubLink} href="https://github.com/Clinify-Open-Sauce/coding-sprint" target="_blank">HERE</a>
+      <a className={styles.githubLink} href="https://github.com/FOSS-Cell-GECPKD/coding-sprint" target="_blank">HERE</a>
       </Typography>
     </Grid>
     <Grid container className={styles.arrowContainer}>
