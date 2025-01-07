@@ -65,6 +65,8 @@ const Home = ({ contributors }): JSX.Element => (
           )
         })
       }
+            <Typography className={styles.contributorsSubTitle}>Credits: This webapp was adapted from <a href='https://github.com/bluelearn-open-source/SPRINT'>Bluelearn Open Source Sprint.</a></Typography>
+
     </Grid>
   </Layout>
 )

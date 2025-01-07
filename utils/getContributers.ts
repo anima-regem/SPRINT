@@ -10,7 +10,7 @@ export const getContributer = async (name:string) => {
     return obj
 }
 export const getContributers = async () => {
-    const req = await fetch('https://api.github.com/repos/FOSS-Cell-GECPKD/SPRINT/git/trees/master?recursive=2')
+    const req = await fetch('https://api.github.com/repos/FOSS-Cell-GECPKD/SPRINT/git/trees/main?recursive=2')
     let obj = await req.json()
     //mapping all file names 
     obj = obj.tree.map(i=>i.path)
